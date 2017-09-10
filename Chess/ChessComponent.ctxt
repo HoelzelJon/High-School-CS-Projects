@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=ChessComponent(Board)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment10.params=
+comment10.target=int\ getGraveSquareWidth()
+comment11.params=
+comment11.target=void\ reverse()
+comment2.params=
+comment2.target=void\ clearText()
+comment3.params=newText
+comment3.target=void\ setText(java.lang.String)
+comment4.params=
+comment4.target=int\ getMargin()
+comment5.params=
+comment5.target=int\ getSquare()
+comment6.params=
+comment6.target=int\ getOutlineThickness()
+comment7.params=
+comment7.target=int\ getPieceFontSize()
+comment8.params=
+comment8.target=int\ getTextFontSize()
+comment9.params=
+comment9.target=int\ getGraveSquareHeight()
+numComments=12

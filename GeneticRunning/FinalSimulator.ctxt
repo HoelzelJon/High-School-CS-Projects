@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FinalSimulator
+comment0.text=Simulate\ evolution\ with\ a\ specific\ set\ of\ nodes\ and\ muscles\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 12/28/2015\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=creatureNum
+comment2.target=Creature\ createRandomCreature4(int)
+numComments=3

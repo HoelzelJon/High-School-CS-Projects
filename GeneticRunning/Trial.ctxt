@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=component\ frame
+comment0.target=void\ setDrawer(DrawComponent,\ javax.swing.JFrame)
+comment1.params=willDisplay\ targetTime
+comment1.target=double\ runTrial(boolean,\ int)
+comment2.params=c
+comment2.target=void\ setCreature(Creature)
+comment3.params=
+comment3.target=javax.swing.JFrame\ getFrame()
+comment4.params=
+comment4.target=DrawComponent\ getComp()
+comment5.params=
+comment5.target=Creature\ getCreature()
+numComments=6

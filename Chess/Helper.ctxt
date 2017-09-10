@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=java.lang.String\ toLetter(int)
+comment1.params=p
+comment1.target=java.lang.String\ toSymbol(Piece)
+comment10.params=spot
+comment10.target=java.lang.String\ getCode(OrderedPair)
+comment11.params=x\ y\ c
+comment11.target=OrderedPair\ getBoardPosition(int,\ int,\ ChessComponent)
+comment12.params=spot
+comment12.target=boolean\ isWithinBoard(OrderedPair)
+comment13.params=n1\ n2
+comment13.target=boolean\ approxEquals(double,\ double)
+comment14.params=n1\ n2
+comment14.target=boolean\ isLarger(double,\ double)
+comment14.text=\r\n\ n1\ \=\ bigger(?)\ number\ (true\ if\ n1\ >\ n2)\r\n
+comment2.params=code
+comment2.target=boolean\ isValidCode(java.lang.String)
+comment3.params=code
+comment3.target=int\ getX(java.lang.String)
+comment4.params=code
+comment4.target=int\ getY(java.lang.String)
+comment5.params=s
+comment5.target=boolean\ isAValidInt(java.lang.String)
+comment6.params=m
+comment6.target=java.util.ArrayList\ getAllSpotsBetween(Move)
+comment6.text=\r\n\ Helps\ for\ deciding\ if\ moves\ are\ valid\ in\ the\ Board\ class\r\n
+comment7.params=t1\ t2
+comment7.target=boolean\ isOppositeTeam(Team,\ Team)
+comment8.params=t
+comment8.target=Team\ getOppositeTeam(Team)
+comment9.params=t
+comment9.target=Piece\ getChosenPiece(Team)
+numComments=15

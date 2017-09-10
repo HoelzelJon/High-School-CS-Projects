@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=willDisplay\ targetTime
+comment0.target=double\ runTrial(boolean,\ int)
+numComments=1

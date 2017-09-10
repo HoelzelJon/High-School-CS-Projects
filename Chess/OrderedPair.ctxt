@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=OrderedPair(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=other
+comment3.target=boolean\ equals(OrderedPair)
+comment4.params=
+comment4.target=void\ spinBoard()
+comment5.params=
+comment5.target=OrderedPair\ clone()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

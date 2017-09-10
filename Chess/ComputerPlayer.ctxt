@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=void\ setTeam(Team)
+comment1.params=
+comment1.target=Team\ getTeam()
+comment2.params=b
+comment2.target=void\ setBoard(Board)
+comment3.params=
+comment3.target=Board\ getBoard()
+comment4.params=
+comment4.target=Move\ nextMove()
+comment5.params=
+comment5.target=Piece\ pieceToChangePawnTo()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Force(double,\ double)
+comment1.params=
+comment1.target=double\ getXComponent()
+comment2.params=
+comment2.target=double\ getYComponent()
+comment3.params=x
+comment3.target=void\ setXComponent(double)
+comment4.params=y
+comment4.target=void\ setYComponent(double)
+comment5.params=magnitude\ angle
+comment5.target=void\ setByAngle(double,\ double)
+comment6.params=other
+comment6.target=boolean\ equals(Force)
+numComments=7

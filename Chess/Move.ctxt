@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=oldSpot\ newSpot
+comment0.target=Move(OrderedPair,\ OrderedPair)
+comment1.params=x\ y\ newX\ newY
+comment1.target=Move(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=OrderedPair\ getOldSpot()
+comment3.params=
+comment3.target=OrderedPair\ getNewSpot()
+comment4.params=
+comment4.target=void\ spinBoard()
+comment5.params=
+comment5.target=Move\ clone()
+numComments=6

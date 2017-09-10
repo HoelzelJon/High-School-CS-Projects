@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=hasMine
+comment0.target=Square(boolean)
+comment1.params=
+comment1.target=boolean\ hasMine()
+comment2.params=n
+comment2.target=void\ setNum(int)
+comment3.params=r
+comment3.target=void\ setRevealed(boolean)
+comment4.params=
+comment4.target=boolean\ isRevealed()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=int\ getNum()
+comment7.params=
+comment7.target=void\ changeFlagged()
+comment8.params=
+comment8.target=boolean\ isFlagged()
+numComments=9

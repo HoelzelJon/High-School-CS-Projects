@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=isAHit\ from\ num2
+comment0.target=Move(boolean,\ int,\ int)
+comment1.params=
+comment1.target=boolean\ isAHit()
+comment2.params=
+comment2.target=int\ getFrom()
+comment3.params=
+comment3.target=int\ getNum2()
+numComments=4

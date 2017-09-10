@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=RememberingDrunk(java.awt.Color)
+comment1.params=
+comment1.target=void\ wander()
+comment2.params=
+comment2.target=getAllPositions()
+comment3.params=x
+comment3.target=void\ removeDoubles(int)
+comment3.text=\r\n\ ceck\ for\ and\ remove\ duplicates\ in\ the\ last\ x\ points\r\n
+numComments=4

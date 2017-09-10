@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=dimention
+comment0.target=Drunk(int)
+comment1.params=dimention\ c
+comment1.target=Drunk(int,\ java.awt.Color)
+comment2.params=dimention\ c\ canHold
+comment2.target=Drunk(int,\ java.awt.Color,\ boolean)
+comment3.params=other
+comment3.target=boolean\ equals(Drunk)
+comment4.params=
+comment4.target=void\ wander()
+comment5.params=
+comment5.target=boolean\ isAtOrigin()
+comment6.params=dimention
+comment6.target=int\ getPos(int)
+comment7.params=
+comment7.target=int[]\ getPos()
+comment8.params=
+comment8.target=java.awt.Color\ getColor()
+numComments=9

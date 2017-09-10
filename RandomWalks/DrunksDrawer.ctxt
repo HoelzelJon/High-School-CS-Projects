@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DrunksDrawer
+comment0.text=\r\n\ Draw\ a\ bunch\ of\ wandering\ points\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 11/22/2015\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=plats\ play
+comment0.target=GameComponent(java.util.ArrayList,\ Player)
+comment1.params=y
+comment1.target=void\ setScreenHeight(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getScreenHeight()
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+comment5.params=
+comment5.target=void\ clearText()
+numComments=6

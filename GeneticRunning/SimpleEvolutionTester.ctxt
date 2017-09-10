@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Creature\ create1NodeCreature()
+comment2.params=num
+comment2.target=Creature\ createRandomCreature5(int)
+comment3.params=num
+comment3.target=Creature\ createRandomCreature4(int)
+comment4.params=length\ num
+comment4.target=Creature\ createRandomWorm(int,\ int)
+comment5.params=length\ num
+comment5.target=Creature\ createRandomCircle(int,\ int)
+comment6.params=size\ num
+comment6.target=Creature\ createRandomFilledCreature(int,\ int)
+comment7.params=size\ num
+comment7.target=Creature\ createRandomWheel(int,\ int)
+comment8.params=size\ num
+comment8.target=Creature\ createTriangledCreature(int,\ int)
+comment9.params=in\ length\ num
+comment9.target=Creature[]\ createCustomCreatures(java.util.Scanner,\ int,\ int)
+numComments=10

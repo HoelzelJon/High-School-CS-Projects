@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawComponent()
+comment1.params=newNum
+comment1.target=void\ setRecord(int)
+comment2.params=t
+comment2.target=void\ setText(java.lang.String)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=c
+comment4.target=void\ setCreature(Creature)
+comment5.params=t
+comment5.target=void\ setTime(int)
+numComments=6

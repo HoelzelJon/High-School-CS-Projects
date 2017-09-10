@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=drunks
+comment0.target=RememberingDrunksComponent(RememberingDrunk[])
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ fitScreen()
+numComments=3

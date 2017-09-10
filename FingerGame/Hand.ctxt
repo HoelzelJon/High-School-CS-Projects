@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=n
+comment1.target=Hand(int)
+comment2.params=other
+comment2.target=void\ hit(Hand)
+comment3.params=other\ num
+comment3.target=void\ pass(Hand,\ int)
+comment3.text=\r\n\ transfers\ (num)\ fingers\ from\ (this)\ onto\ (other)\r\n
+comment4.params=
+comment4.target=int\ getFingers()
+comment5.params=other
+comment5.target=boolean\ equals(Hand)
+numComments=6

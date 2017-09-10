@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=isPlayer1
+comment0.target=Analyzer(boolean)
+comment1.params=current
+comment1.target=Move\ getMove(Board)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b\ t
+comment0.target=CompLv4(Board,\ Team)
+comment1.params=
+comment1.target=Move\ nextMove()
+comment2.params=
+comment2.target=Piece\ pieceToChangePawnTo()
+comment3.params=
+comment3.target=java.util.ArrayList\ getAllLikelyMoves()
+comment4.params=
+comment4.target=boolean\ canMakeCheckmateMove()
+numComments=5

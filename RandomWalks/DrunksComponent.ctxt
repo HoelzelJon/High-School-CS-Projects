@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=drunks
+comment0.target=DrunksComponent(Drunk[])
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2

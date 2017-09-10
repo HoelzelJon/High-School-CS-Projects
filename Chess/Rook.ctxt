@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Rook(Team)
+comment1.params=xMove\ yMove
+comment1.target=boolean\ isValidMove(int,\ int)
+comment2.params=
+comment2.target=Rook\ clone()
+comment3.params=
+comment3.target=int\ getPieceValue()
+numComments=4
