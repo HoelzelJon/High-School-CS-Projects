@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=lives
+comment0.target=Paddle(int)
+comment1.params=newX
+comment1.target=void\ moveTo(int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=void\ lostLife()
+comment4.params=
+comment4.target=int\ getLives()
+numComments=5

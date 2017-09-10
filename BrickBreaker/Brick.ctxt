@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ hitsLeft
+comment0.target=Brick(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=java.awt.Rectangle\ getRect()
+comment5.params=
+comment5.target=int\ getHitsLeft()
+comment6.params=
+comment6.target=void\ gotHit()
+numComments=7
