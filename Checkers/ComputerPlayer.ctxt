@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ willJump()
+comment1.params=x\ y
+comment1.target=boolean\ willJump(int,\ int)
+comment2.params=
+comment2.target=Move\ getNextMove()
+comment3.params=x\ y
+comment3.target=Move\ getNextMove(int,\ int)
+numComments=4

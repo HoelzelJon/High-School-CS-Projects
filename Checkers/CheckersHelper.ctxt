@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=code
+comment0.target=boolean\ isValidCode(java.lang.String)
+comment1.params=code
+comment1.target=int\ getX(java.lang.String)
+comment2.params=code
+comment2.target=int\ getY(java.lang.String)
+comment3.params=s
+comment3.target=boolean\ isAValidInt(java.lang.String)
+comment4.params=num
+comment4.target=java.lang.String\ toLetter(int)
+comment5.params=x\ y
+comment5.target=java.lang.String\ toCode(int,\ int)
+comment6.params=t
+comment6.target=Team\ getOppositeTeam(Team)
+comment7.params=x\ y
+comment7.target=OrderedPair\ getBoardPosition(int,\ int)
+comment8.params=spot
+comment8.target=boolean\ isWithinBoard(OrderedPair)
+numComments=9

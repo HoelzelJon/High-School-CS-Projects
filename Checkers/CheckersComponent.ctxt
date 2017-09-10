@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=CheckersComponent(CheckersBoard)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=newText
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=void\ clearText()
+numComments=4

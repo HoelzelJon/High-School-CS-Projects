@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b\ t
+comment0.target=ComputerPlayerLv2(CheckersBoard,\ Team)
+comment1.params=
+comment1.target=boolean\ willJump()
+comment2.params=x\ y
+comment2.target=boolean\ willJump(int,\ int)
+comment3.params=
+comment3.target=Move\ getNextMove()
+comment4.params=x\ y
+comment4.target=Move\ getNextMove(int,\ int)
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Piece(Team)
+comment1.params=xMove\ yMove
+comment1.target=boolean\ isValidMove(int,\ int)
+comment2.params=xMove\ yMove
+comment2.target=boolean\ isValidJumpMove(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=other
+comment4.target=boolean\ isOppositeTeam(Piece)
+comment5.params=
+comment5.target=Team\ getTeam()
+comment6.params=t
+comment6.target=void\ setTeam(Team)
+comment7.params=x
+comment7.target=void\ setHighlight1(boolean)
+comment8.params=
+comment8.target=boolean\ isHighlighted1()
+numComments=9
