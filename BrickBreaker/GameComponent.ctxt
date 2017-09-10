@@ -1,12 +1,14 @@
 #BlueJ class context
-comment0.params=bricks\ ball\ paddle\ text
-comment0.target=GameComponent(java.util.ArrayList,\ Ball,\ Paddle,\ java.lang.String)
-comment1.params=g
-comment1.target=void\ paintComponent(java.awt.Graphics)
-comment2.params=b
-comment2.target=void\ setNewBall(Ball)
-comment3.params=text
-comment3.target=void\ setText(java.lang.String)
-comment4.params=
-comment4.target=void\ clearText()
-numComments=5
+comment0.target=GameComponent
+comment0.text=\r\n\ draw\ the\ game\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 10/18/2015\r\n
+comment1.params=bricks\ ball\ paddle\ text
+comment1.target=GameComponent(java.util.ArrayList,\ Ball,\ Paddle,\ java.lang.String)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=b
+comment3.target=void\ setNewBall(Ball)
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+comment5.params=
+comment5.target=void\ clearText()
+numComments=6

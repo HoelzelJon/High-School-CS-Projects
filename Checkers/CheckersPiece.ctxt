@@ -1,10 +1,12 @@
 #BlueJ class context
-comment0.params=t
-comment0.target=CheckersPiece(Team)
-comment1.params=xMove\ yMove
-comment1.target=boolean\ isValidMove(int,\ int)
+comment0.target=CheckersPiece
+comment0.text=\r\n\ A\ piece\ in\ the\ game\ of\ checkers.\ Has\ a\ color,\ an\ x\ position,\ and\ a\ y\ position\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 3/21/2015\r\n
+comment1.params=t
+comment1.target=CheckersPiece(Team)
 comment2.params=xMove\ yMove
-comment2.target=boolean\ isValidJumpMove(int,\ int)
-comment3.params=
-comment3.target=java.lang.String\ toString()
-numComments=4
+comment2.target=boolean\ isValidMove(int,\ int)
+comment3.params=xMove\ yMove
+comment3.target=boolean\ isValidJumpMove(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

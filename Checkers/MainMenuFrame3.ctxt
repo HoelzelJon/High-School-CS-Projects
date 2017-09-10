@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=MainMenuFrame3()
+comment0.target=MainMenuFrame3
+comment0.text=\r\n\ Asks\ the\ user\ to\ pick\ a\ side\ -\ black,\ white,\ or\ random\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 10/9/2015\r\n
 comment1.params=
-comment1.target=Team\ getLevel()
+comment1.target=MainMenuFrame3()
 comment2.params=
-comment2.target=void\ close()
-numComments=3
+comment2.target=Team\ getLevel()
+comment3.params=
+comment3.target=void\ close()
+numComments=4

@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=num1\ num2
-comment0.target=boolean\ approxEquals(double,\ double)
-numComments=1
+comment0.target=Helper
+comment0.text=\r\n\ Helpful\ static\ methods\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 10/18/2015\r\n
+comment1.params=num1\ num2
+comment1.target=boolean\ approxEquals(double,\ double)
+numComments=2

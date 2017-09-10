@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=level\ t
-comment0.target=void\ play(int,\ Team)
-numComments=1
+comment0.target=VsComputerCheckersGame
+comment0.text=\r\n\ Play\ checkers\ against\ a\ computer\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 11/12/2015\r\n
+comment1.params=level\ t
+comment1.target=void\ play(int,\ Team)
+numComments=2

@@ -1,6 +1,7 @@
 # High School CS Projects
 
-These are a few coding projects I made during my free time in high school.  They are all in Java, and were made in BlueJ (so it is probably easiest to open them with BlueJ).
+These are a few coding projects I made during my free time in high school.  They are all in Java, and were made in BlueJ (so it is probably easiest to open them with BlueJ).  I also have a folder of .jar files for each of the projects, so you can run them that way instead if you want. (Some of them include text-based stuff, so if the .jar doesn't seem like it's doing anything, just run it in the terminal instead.)
+
 
 The programs (in order from most to least interesting, in my opinion):
 

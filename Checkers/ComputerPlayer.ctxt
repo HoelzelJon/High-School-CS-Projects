@@ -1,10 +1,12 @@
 #BlueJ class context
-comment0.params=
-comment0.target=boolean\ willJump()
-comment1.params=x\ y
-comment1.target=boolean\ willJump(int,\ int)
-comment2.params=
-comment2.target=Move\ getNextMove()
-comment3.params=x\ y
-comment3.target=Move\ getNextMove(int,\ int)
-numComments=4
+comment0.target=ComputerPlayer
+comment0.text=\r\n\ An\ abstract\ superclass\ for\ computer\ player\ objects\r\n\ \r\n\ @author\ Hoelzel\r\n\ @version\ 3/27/2015\r\n
+comment1.params=
+comment1.target=boolean\ willJump()
+comment2.params=x\ y
+comment2.target=boolean\ willJump(int,\ int)
+comment3.params=
+comment3.target=Move\ getNextMove()
+comment4.params=x\ y
+comment4.target=Move\ getNextMove(int,\ int)
+numComments=5
