@@ -12,11 +12,12 @@ The programs (in order from most to least interesting, in my opinion):
 
 -FingerGame:  At school, there was a game that some of my friends would play.  It can be played with effectively as many people as you want, but this program only deals with the two-player scenario.  The rules are:
 
- -Each player has 2 hands.  Each hand can have 1-4 fingers raised at a time.  To start, both players have one finger raised on each hand.
- -If one of your hands ever has 5 or more fingers raised, that hand is then dead.
- -Each turn, you have two options.
-  -You can hit one of your opponent's hands with one of yours.  When you do this, your opponent's hand gains the number of fingers that you hit with (i.e. if you hit on the first turn, one of your opponent's hands would then have 2 fingers raised)
-  -You can pass some of your fingers from one hand to the other.  This can be done to bring back a dead hand, or even to intentionally kill a hand.  However, you cannot pass such that your hands are still effectively the same (i.e. 2 on one hand + 1 on the other cannot be passed to become 1 on one hand + 2 on the other)
+Each player has 2 hands.  Each hand can have 1-4 fingers raised at a time.  To start, both players have one finger raised on each hand.
+If one of your hands ever has 5 or more fingers raised, that hand is then dead.
+Each turn, you have two options.
+-You can hit one of your opponent's hands with one of yours.  When you do this, your opponent's hand gains the number of fingers that you hit with (i.e. if you hit on the first turn, one of your opponent's hands would then have 2 fingers raised)
+-You can pass some of your fingers from one hand to the other.  This can be done to bring back a dead hand, or even to intentionally kill a hand.  However, you cannot pass such that your hands are still effectively the same (i.e. 2 on one hand + 1 on the other cannot be passed to become 1 on one hand + 2 on the other)
+
 Based on these rules, the second player can always win, assuming they play correctly.  Try it yourself! If you run the main method of MainGame, you can face off against the undefeated computer.  (Note: the hands are numbered 0 and 1, because arrays.  hand 0 is on the left and 1 is on the right)
 
 -RandomWalks: This program has various interesting visuals relating to random walks.  If you are wondering why all of the class names involve drunks, that is the analogy that my CS teacher made, so that was where I started with the program. The main method of the DrunksDrawer class puts 20,000 "drunks" (randomly-colored points) and has them wander randomly on the screen.  The main method of the RememberingDrunkDrawer class has a single point wander for a user-specified number of steps, and then displays an image of the path the point took (darker patches indicate the point passed over an area more times).  The user can then input a "shading factor" to make the image look cool.  The main method in RememberingDrunksDrawer draws a user-specified number of randomly-colored points as they do -- you guessed it -- a random walk.
